@@ -10,7 +10,7 @@ https://siv3d.github.io/ja-jp/
 
 このたび、「Siv3D ゲームジャム バンダイナムコスタジオ杯2025」というとっても楽しいゲームジャムに参加します
 
-https://bandainamcostudios.connpass.com/event/364446/
+https://www.bandainamcostudios.com/recruit/graduate/news/18293
 
 ベースとなるプログラムや素材は事前に作り始めてOK（むしろ推奨）ということで作成しました
 
@@ -20,4 +20,5 @@ githubで公開した理由はこちらになります
 - 前回bnscup2023でも「githubで公開してみるといいですよ～」みたいなアナウンスがあったような気がするから
 
 こちらに関するご連絡、ご意見、ファンレター等はこのXアカウントまで
+
 https://x.com/des2tinytroy
