@@ -291,6 +291,12 @@ int	print(t_data *data)
 		data->background_04.draw(50 * i, 0);
 		++i;
 	}
+	i = 0;
+	while (i < 16)
+	{
+		data->background_04.draw(50 * i, 570);
+		++i;
+	}
 	data->emoji.scaled(0.75).mirrored(data->sprit[0].isFacingRight).drawAt(data->sprit[0].PosX, data->sprit[0].PosY);
 	data->emoji_enemy.scaled(0.75).mirrored(data->sprit[1].isFacingRight).drawAt(data->sprit[1].PosX, data->sprit[1].PosY);
 	data->emoji_enemy01.scaled(0.75).mirrored(data->sprit[2].isFacingRight).drawAt(data->sprit[2].PosX, data->sprit[2].PosY);
