@@ -41,6 +41,7 @@ typedef struct	s_data
 	int				hit_time;
 	int				i;
 	bool			clear_flag;
+	const Audio		audio{ U"Image/test01.mp3" };
 }	t_data;
 
 int	game_init(t_data *data)
@@ -98,6 +99,7 @@ int	game_init(t_data *data)
 		data->mapPosY[i] = 0;
 		++i;
 	}
+	data->audio.play();
 	return (0);
 }
 
